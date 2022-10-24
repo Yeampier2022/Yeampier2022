@@ -6,11 +6,11 @@ I am in my fourth subject at university in my first web and computer programming
 I have taken several Platzi courses.
 
 - 🔭skills developed :
-HTML
-CSS
-Javascript
-Wordpress
-Phyton
+- HTML
+- CSS
+- Javascript
+- Wordpress
+- Python
 <!--
 **Yeampier2022/Yeampier2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
