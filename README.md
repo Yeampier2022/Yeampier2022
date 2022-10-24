@@ -1,9 +1,9 @@
 ### Hola
 -🌱 I’m currently learning and realize projects at the university and at platzi.
 
-I am in my fourth subject at university in my first web and computer programming certificate.
+- I am in my fourth subject at university in my first web and computer programming certificate.
 
-I have taken several Platzi courses.
+- I have taken several Platzi courses.
 
 - 🔭skills developed :
 - HTML
@@ -11,6 +11,8 @@ I have taken several Platzi courses.
 - Javascript
 - Wordpress
 - Python
+
+- I want to apply what I have learned in your projects 
 <!--
 **Yeampier2022/Yeampier2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
