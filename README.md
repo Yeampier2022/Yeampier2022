@@ -1,11 +1,10 @@
 ### 
 ![](https://5115875.fs1.hubspotusercontent-na1.net/hub/5115875/hubfs/Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg?width=950&name=Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg)
+
 <h1 align="center">Hi 👋, I'm Yeampier Huerta Web Frontend</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeampier2022&label=Profile%20views&color=0e75b6&style=flat" alt="yeampier2022" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeampier2022" alt="yeampier2022" /></a> </p>
 
 - 🌱 I’m currently learning **I am in my fourth subject at university in my first web and computer programming certificate.**
 
@@ -17,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yeampier huerta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeampier huerta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yeampier-huerta-23a98b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yeampier-huerta-23a98b1b6/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/yeampier.huertafernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yeampier.huertafernandez/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
