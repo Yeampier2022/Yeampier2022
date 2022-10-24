@@ -1,8 +1,8 @@
 ### 
-![](https://5115875.fs1.hubspotusercontent-na1.net/hub/5115875/hubfs/Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg?width=950&name=Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg)
 
 <h1 align="center">Hi 👋, I'm Yeampier Huerta Web Frontend</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
+<img aling="center" alt ="codiing" with"400" src="https://5115875.fs1.hubspotusercontent-na1.net/hub/5115875/hubfs/Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg?width=950&name=Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeampier2022&label=Profile%20views&color=0e75b6&style=flat" alt="yeampier2022" /> </p>
 
