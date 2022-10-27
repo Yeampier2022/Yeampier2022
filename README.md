@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **YeampierHuertaDeveloper@gmail.com**
 
-- 📄 Know about my experiences [I am currently studying at BYU-IDAHO Online University Web Development and I am also studying at Platzi. I have completed several courses such as HTML, advanced CSS, Javascript, Wordpress, Figma, Git and Github. During that time I have completed some projects. I would like to implement everything I've learned in your projects and I'm willing to work and progress together.](I am currently studying at BYU-IDAHO Online University Web Development and I am also studying at Platzi. I have completed several courses such as HTML, advanced CSS, Javascript, Wordpress, Figma, Git and Github. During that time I have completed some projects. I would like to implement everything I've learned in your projects and I'm willing to work and progress together.)
+- 📄 Know about my experiences I am currently studying at BYU-IDAHO Online University Web Development and I am also studying at Platzi. I have completed several courses such as HTML, advanced CSS, Javascript, Wordpress, Figma, Git and Github. During that time I have completed some projects. I would like to implement everything I've learned in your projects and I'm willing to work and progress together.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
